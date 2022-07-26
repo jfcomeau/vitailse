@@ -1,11 +1,13 @@
 {
 	"recommendations": [
-		"antfu.vite",
-		"johnsoncodehk.volar",
+		"antfu.goto-alias",
 		"antfu.iconify",
-		"dbaeumer.vscode-eslint",
+		"antfu.vite",
 		"bradlc.vscode-tailwindcss",
 		"csstools.postcss",
-		"lokalise.i18n-ally"
+		"dbaeumer.vscode-eslint",
+		"lokalise.i18n-ally",
+		"streetsidesoftware.code-spell-checker",
+		"vue.volar"
 	]
 }
